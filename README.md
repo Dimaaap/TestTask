@@ -13,7 +13,7 @@ cd ../../
 Next you need to install dependencies
 
 ```bash
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 In project you have **projects** directive with code for all test tasks
 and tests for it
